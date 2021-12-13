@@ -103,7 +103,7 @@
       "description":"Одно из замечательнейших мест для эксклюзивного, но очень дорогого отдыха.",
       "filters":
       {
-        "price":2,
+        "price":0,
         "sea":0,
         "mountains":0,
         "culture":2,
@@ -122,7 +122,7 @@
       "description":"Город-государство, который, буквально, источает атмосферу богатства и роскоши.",
       "filters":
       {
-        "price":2,
+        "price":0,
         "sea":0,
         "mountains":0,
         "culture":1,
@@ -141,7 +141,7 @@
       "description":"Замечательное, но дорогостоящее пребывание стоит того, чтобы посетить живописные места города.",
       "filters":
       {
-        "price":2,
+        "price":0,
         "sea":0,
         "mountains":0,
         "culture":2,
@@ -160,7 +160,7 @@
       "description":"Один из самых интересных городов в мире, где можно прекрасно провести время и потратить немалые деньги.",
       "filters":
       {
-        "price":2,
+        "price":1,
         "sea":1,
         "mountains":0,
         "culture":1,
@@ -236,7 +236,7 @@
       "description":"Мир неиссякаемой роскоши, небоскребов, искусственных островов, экзотических и роскошных автомобилей.",
       "filters":
       {
-        "price":2,
+        "price":0,
         "sea":1,
         "mountains":0,
         "culture":0,
@@ -312,7 +312,7 @@
       "description":"Уникальный и неповторимый, но один из самых дорогих городов мира.",
       "filters":
       {
-        "price":2,
+        "price":0,
         "sea":1,
         "mountains":0,
         "culture":1,
@@ -388,7 +388,7 @@
       "description":"Это микрогосударство обслуживает только тех, кто привык вести самый роскошный образ жизни.",
       "filters":
       {
-        "price":2,
+        "price":0,
         "sea":0,
         "mountains":0,
         "culture":1,
@@ -407,7 +407,7 @@
       "description":"Здесь можно отдохнуть от повседневной жизни и забыть обо всем, поскольку, тропическая атмосфера острова Фрегат, действительно, уникальна.",
       "filters":
       {
-        "price":2,
+        "price":0,
         "sea":2,
         "mountains":0,
         "culture":1,
@@ -415,6 +415,186 @@
         "shopping":1,
         "entertainment":2,
         "nature":2
+      }
+    },
+    {
+      "id": 22,
+      "title": "Майами",
+      "country": "США",
+      "coords": "25.761680;-80.191790",
+      "image_url": "https://afisha.nyc/wp-content/uploads/2018/11/22222.jpg",
+      "description": "Город, где всегда лето.",
+      "filters": {
+        "price": 0,
+        "sea": 2,
+        "mountains": 0,
+        "culture": 1,
+        "architecture": 0,
+        "shopping": 1,
+        "entertainment": 2,
+        "nature": 0
+      }
+    },
+    {
+      "id": 23,
+      "title": "Лас-Вегас",
+      "country": "США",
+      "coords": "36.169941;-115.139830",
+      "image_url": "https://russiantouramerica.com/wp-content/uploads/2018/05/Las-Vegas-Strip-free-1.png",
+      "description": "Один крупнейших мировых центров развлечений и игрового бизнеса. Популярные для посещения места — казино, отели, ежедневные концерты и шоу.",
+      "filters": {
+        "price": 0,
+        "sea": 0,
+        "mountains": 0,
+        "culture": 1,
+        "architecture": 1,
+        "shopping": 2,
+        "entertainment": 2,
+        "nature": 0
+      }
+    },
+    {
+      "id": 24,
+      "title": "Гоа",
+      "country": "Индия",
+      "coords": "15.299326;74.123996",
+      "image_url": "https://www.tripzaza.com/ru/destinations/wp-content/uploads/2018/07/Dostoprimechatelnosti-Goa-e1530676343655.jpg",
+      "description": "Гоа — это штат-восторг, куда приезжают целыми семьями «на зимовку» или просто однажды побывав, возвращаются снова и снова.",
+      "filters": {
+        "price": 2,
+        "sea": 2,
+        "mountains": 0,
+        "culture": 0,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 0,
+        "nature": 1
+      }
+    },
+   {
+      "id": 25,
+      "title": "Бали",
+      "country": "Индонезия",
+      "coords": "-8.340539;115.091951",
+      "image_url": "https://tour-kassa.ru/images/easyblog_articles/218/tour-kassa-chto-stoit-znat-o-bali.jpg",
+      "description": "Остров Бали в Индонезии известен повсеместно. Многочисленные фото красочных мест, разговоры об отличном отдыхе и незабываемых путешествиях, золотых пляжах и дешевых морепродуктах – это все о Бали.",
+      "filters": {
+        "price": 1,
+        "sea": 2,
+        "mountains": 0,
+        "culture": 1,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 1,
+        "nature": 1
+      }
+    },
+   {
+      "id": 26,
+      "title": "Гавайские острова",
+      "country": "США",
+      "coords": "19.896766;-155.582782",
+      "image_url": "http://www.east-travel-spb.ru/images/kurort.jpg",
+      "description": "Невероятные вулканические пейзажи, таинственные водопады, увлекательные экспедиции — отдых на Гавайях предоставляет множество возможностей получения незабываемых впечатлений.",
+      "filters": {
+        "price": 1,
+        "sea": 2,
+        "mountains": 1,
+        "culture": 1,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 1,
+        "nature": 1
+      }
+    },
+   {
+      "id": 27,
+      "title": "Рио-де-Жанейро",
+      "country": "Бразилия",
+      "coords": "-22.906847;-43.172897",
+      "image_url": "https://rukivnogi.com/images/articles/2017-03-22_141613.jpg",
+      "description": "Рио — второй по величине город Бразилии с захватывающими дух пейзажами, развитой пляжной культурой и, конечно, знаменитым ежегодным карнавалом.",
+      "filters": {
+        "price": 1,
+        "sea": 2,
+        "mountains": 1,
+        "culture": 2,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 1,
+        "nature": 0
+      }
+    },
+   {
+      "id": 28,
+      "title": "Ибица",
+      "country": "Испания",
+      "coords": "39.020010;1.482148",
+      "image_url": "https://espanarusa.com/files/autoupload/34/78/26/j52y1kab393179.jpg",
+      "description": "Ибица – самый модный курорт Европы. Солнце, море, свобода, круглосуточное веселье, переходящее в «отрыв», и спокойный семейный отдых – все это вы найдете на Ибице.",
+      "filters": {
+        "price": 1,
+        "sea": 2,
+        "mountains": 0,
+        "culture": 1,
+        "architecture": 0,
+        "shopping": 2,
+        "entertainment": 1,
+        "nature": 0
+      }
+    },
+   {
+      "id": 28,
+      "title": "Эр-Риад",
+      "country": "Саудовская Аравия",
+      "coords": "24.713552;46.675296",
+      "image_url": "https://m.day.kyiv.ua/sites/default/files/news/06052018/s800.jpeg",
+      "description": "Эр-Рияд — столица Саудовской Аравии, город с древней душой и молодым сердцем.",
+      "filters": {
+        "price": 0,
+        "sea": 0,
+        "mountains": 0,
+        "culture": 1,
+        "architecture": 2,
+        "shopping": 2,
+        "entertainment": 1,
+        "nature": 0
+      }
+    },
+   {
+      "id": 29,
+      "title": "Стамбул",
+      "country": "Турция",
+      "coords": "41.008238;28.978359",
+      "image_url": "https://www.atorus.ru/public/ator/data/4544e6.jpg",
+      "description": "Загадочный и величественный, шумный и сказочно красивый, Стамбул — это мост между Европой и Азией, между традиционным Востоком и современным Западом.",
+      "filters": {
+        "price": 1,
+        "sea": 0,
+        "mountains": 0,
+        "culture": 2,
+        "architecture": 2,
+        "shopping": 0,
+        "entertainment": 1,
+        "nature": 0
+      }
+    },
+   {
+      "id": 30,
+      "title": "Шанхай",
+      "country": "Китай",
+      "coords": "31.230416;121.473701",
+      "image_url": "https://triplook.me/media/resorts/photo/7/4/mt5.jpg",
+      "description": "Шанхай — лучшее место для обеспеченных людей, с мишленовскими ресторанами, фешенебельными модными домами и роскошными отелями.",
+      "filters": {
+        "price": 0,
+        "sea": 0,
+        "mountains": 0,
+        "culture": 1,
+        "architecture": 2,
+        "shopping": 2,
+        "entertainment": 2,
+        "nature": 0
       }
     }
   ]
