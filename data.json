@@ -69,7 +69,7 @@
         "sea":2,
         "mountains":2,
         "culture":1,
-        "architecture":2,
+        "architecture":1,
         "shopping":0,
         "entertainment":1,
         "nature":1
@@ -91,7 +91,7 @@
         "architecture":1,
         "shopping":0,
         "entertainment":1,
-        "nature":2
+        "nature":1
       }
     },
     {
@@ -591,6 +591,132 @@
         "sea": 0,
         "mountains": 0,
         "culture": 1,
+        "architecture": 2,
+        "shopping": 2,
+        "entertainment": 2,
+        "nature": 0
+      }
+    },
+   {
+      "id": 31,
+      "title": "Лез-Арк",
+      "country": "Франция",
+      "coords": "45.572230;6.829642",
+      "image_url": "https://n1s1.elle.ru/ca/60/c8/ca60c8e3359241aaa9157fbea2c5f264/728x486_1_addae04440f9bd6bd23d049f5d5d736c@940x627_0xc0a839a4_19450094631484062474.jpeg",
+      "description": "Горнолыжный курорт Лез-Арк считается в Европе образцом развития сноубординга и внетрассового катания.",
+      "filters": {
+        "price": 1,
+        "sea": 0,
+        "mountains": 2,
+        "culture": 1,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 2,
+        "nature": 0
+      }
+    },
+   {
+      "id": 32,
+      "title": "Ишгль",
+      "country": "Австрия",
+      "coords": "47.011845;10.288419",
+      "image_url": "https://n1s1.elle.ru/fe/e1/aa/fee1aa9fc4ba95b74ee85ce48fe573e7/728x486_1_f63d864869eb44bbdb45a41c155bc95b@940x627_0xc0a839a4_3165201001484062513.jpeg",
+      "description": "Ишгль прекрасно подходит как начинающим, так и продвинутым лыжникам и сноубордистам — трассы здесь разнообразные и все без исключения идеально подготовленные.",
+      "filters": {
+        "price": 1,
+        "sea": 0,
+        "mountains": 2,
+        "culture": 1,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 2,
+        "nature": 0
+      }
+    },
+   {
+      "id": 33,
+      "title": "Юлляс",
+      "country": "Финляндия",
+      "coords": "67.566667;24.233333",
+      "image_url": "https://n1s1.elle.ru/16/88/6c/16886c0a47a2022da7277f8f299a638d/727x479_1_a59e0f4ec6480ac9b10481fbda513aa0@940x619_0xc0a839a4_13815500461484062528.jpeg",
+      "description": "Самый большой горнолыжный курорт Финляндии является абсолютным рекордсменом по перепаду высот — до 500 метров. Курорт больше подходит для продвинутых спортсменов.",
+      "filters": {
+        "price": 1,
+        "sea": 0,
+        "mountains": 2,
+        "culture": 0,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 2,
+        "nature": 0
+      }
+    },
+   {
+      "id": 34,
+      "title": "Камчатка",
+      "country": "Россия",
+      "coords": "52.535151;158.197690",
+      "image_url": "https://tourism.gov.ru/upload/medialibrary/fad/669ba58ccbfd8b19e913fcda9ce87888.jpg",
+      "description": "Основные достопримечательности края – природные, которые привлекут любителей охоты, рыбалки, экологического туризма.",
+      "filters": {
+        "price": 1,
+        "sea": 0,
+        "mountains": 2,
+        "culture": 0,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 0,
+        "nature": 2
+      }
+    },
+   {
+      "id": 35,
+      "title": "Алтай",
+      "country": "Россия",
+      "coords": "50.618192;86.219931",
+      "image_url": "https://tourism.gov.ru/upload/medialibrary/e44/2358960fd81fba90a9f4d0e114b6aa4b.jpg",
+      "description": "Основные достопримечательности края – природные, которые привлекут любителей охоты, рыбалки, экологического туризма.",
+      "filters": {
+        "price": 2,
+        "sea": 0,
+        "mountains": 2,
+        "culture": 0,
+        "architecture": 0,
+        "shopping": 0,
+        "entertainment": 0,
+        "nature": 2
+      }
+    },
+   {
+      "id": 36,
+      "title": "Кейптаун",
+      "country": "ЮАР",
+      "coords": "-33.924869;18.424055",
+      "image_url": "https://100dorog.ru/upload/contents/432/2008/YuAR_Keyptaun-03390755.jpg?width=795&scale=both",
+      "description": "Кейптаун — одно из лучших мест в мире для серфинга.",
+      "filters": {
+        "price": 1,
+        "sea": 1,
+        "mountains": 1,
+        "culture": 1,
+        "architecture": 0,
+        "shopping": 1,
+        "entertainment": 1,
+        "nature": 1
+      }
+    },
+   {
+      "id": 37,
+      "title": "Рим",
+      "country": "Италия",
+      "coords": "41.902783;12.496365",
+      "image_url": "https://italyme.ru/wp-content/uploads/2016/02/Colosseo_Roma6.jpg",
+      "description": "Риму есть что предложить поклонникам античной культуры и современного искусства, ценителям высокой кухни и высокой моды, любителям громких вечеринок и романтикам, предпочитающим нехоженые тропы и уютные улочки.",
+      "filters": {
+        "price": 1,
+        "sea": 1,
+        "mountains": 0,
+        "culture": 2,
         "architecture": 2,
         "shopping": 2,
         "entertainment": 2,
