@@ -696,13 +696,13 @@
       "description": "Кейптаун — одно из лучших мест в мире для серфинга.",
       "filters": {
         "price": 1,
-        "sea": 1,
+        "sea": 2,
         "mountains": 1,
         "culture": 1,
         "architecture": 0,
         "shopping": 1,
-        "entertainment": 1,
-        "nature": 2
+        "entertainment": 2,
+        "nature": 0
       }
     },
    {
