@@ -2,7 +2,7 @@
   {
       "id":0,
       "title":"Москва",
-      "country":"Россия",
+      "country":"russia",
       "airport":"SVO",
       "coords":
       {
@@ -26,7 +26,7 @@
     {
       "id":1,
       "title":"Вена",
-      "country":"Австрия",
+      "country":"austria",
       "airport":"VIE",
       "coords":
       {
@@ -50,7 +50,7 @@
     {
       "id":2,
       "title":"Барселона",
-      "country":"Испания",
+      "country":"spain",
       "airport":"BCN",
       "coords":
       {
@@ -74,7 +74,7 @@
     {
       "id":3,
       "title":"Сочи",
-      "country":"Россия",
+      "country":"russia",
       "airport":"AER",
       "coords":
       {
@@ -98,7 +98,7 @@
     {
       "id":4,
       "title":"Тоскана",
-      "country":"Италия",
+      "country":"italy",
       "airport":"PSA",
       "coords":
       {
@@ -122,7 +122,7 @@
     {
       "id":5,
       "title":"Люксембург",
-      "country":"Люксембург",
+      "country":"luxembourg",
       "airport":"LUX",
       "coords":
       {
@@ -146,7 +146,7 @@
     {
       "id":6,
       "title":"Сингапур",
-      "country":"Сингапур",
+      "country":"singapore",
       "airport":"SIN",
       "coords":
       {
@@ -170,7 +170,7 @@
     {
       "id":7,
       "title":"Цюрих",
-      "country":"Швейцария",
+      "country":"switzerland",
       "airport":"ZRH",
       "coords":
       {
@@ -194,7 +194,7 @@
     {
       "id":8,
       "title":"Осло",
-      "country":"Норвегия",
+      "country":"norway",
       "airport":"OSL",
       "coords":
       {
@@ -218,7 +218,7 @@
     {
       "id":9,
       "title":"Токио",
-      "country":"Япония",
+      "country":"japan",
       "airport":"HND",
       "coords":
       {
@@ -242,7 +242,7 @@
     {
       "id":10,
       "title":"Сидней",
-      "country":"Австралия",
+      "country":"australia",
       "airport":"SYD",
       "coords":
       {
@@ -266,7 +266,7 @@
     {
       "id":11,
       "title":"Фиджи",
-      "country":"Фиджи",
+      "country":"fiji",
       "airport":"FJ",
       "coords":
       {
@@ -290,7 +290,7 @@
     {
       "id":12,
       "title":"Дубай",
-      "country":"Дубай",
+      "country":"Dubai",
       "airport":"DXB",
       "coords":
       {
@@ -314,7 +314,7 @@
     {
       "id":13,
       "title":"Стокгольм",
-      "country":"Швеция",
+      "country":"sweden",
       "airport":"ARN",
       "coords":
       {
@@ -338,7 +338,7 @@
     {
       "id":14,
       "title":"Тортола",
-      "country":"Британские Виргинские острова",
+      "country":"british_virgin_islands",
       "airport":"AXA",
       "coords":
       {
@@ -362,7 +362,7 @@
     {
       "id":15,
       "title":"Лондон",
-      "country":"Англия",
+      "country":"england",
       "airport":"LHR",
       "coords":
       {
@@ -386,7 +386,7 @@
     {
       "id":16,
       "title":"Нью-Йорк",
-      "country":"США",
+      "country":"usa",
       "airport":"LGA",
       "coords":
       {
@@ -410,7 +410,7 @@
     {
       "id":17,
       "title":"Женева",
-      "country":"Швейцария",
+      "country":"switzerland",
       "airport":"GVA",
       "coords":
       {
@@ -434,7 +434,7 @@
     {
       "id":18,
       "title":"Париж",
-      "country":"Франция",
+      "country":"france",
       "airport":"CDG",
       "coords":
       {
@@ -458,7 +458,7 @@
     {
       "id":19,
       "title":"Копенгаген",
-      "country":"Дания",
+      "country":"denmark",
       "airport":"CPH",
       "coords":
       {
@@ -482,7 +482,7 @@
     {
       "id":20,
       "title":"Монте-Карло",
-      "country":"Монако",
+      "country":"monaco",
       "airport":"MCM",
       "coords":
       {
@@ -506,7 +506,7 @@
     {
       "id":21,
       "title":"Остров Фрегат",
-      "country":"Сейшелы",
+      "country":"seychelles",
       "airport":"FRK",
       "coords":
       {
@@ -530,7 +530,7 @@
     {
       "id": 22,
       "title": "Майами",
-      "country": "США",
+      "country": "usa",
       "airport":"MIA",
       "coords":
       {
@@ -553,7 +553,7 @@
     {
       "id": 23,
       "title": "Лас-Вегас",
-      "country": "США",
+      "country": "usa",
       "airport":"LVS",
       "coords":
       {
@@ -576,7 +576,7 @@
     {
       "id": 24,
       "title": "Гоа",
-      "country": "Индия",
+      "country": "india",
       "airport":"GOI",
       "coords":
       {
@@ -599,7 +599,7 @@
    {
       "id": 25,
       "title": "Бали",
-      "country": "Индонезия",
+      "country": "indonesia",
       "airport":"DPS",
       "coords":
       {
@@ -622,7 +622,7 @@
    {
       "id": 26,
       "title": "Гавайские острова",
-      "country": "США",
+      "country": "usa",
       "airport":"HNL",
       "coords":
       {
@@ -645,7 +645,7 @@
    {
       "id": 27,
       "title": "Рио-де-Жанейро",
-      "country": "Бразилия",
+      "country": "brazil",
       "airport":"GIG",
       "coords":
       {
@@ -668,7 +668,7 @@
    {
       "id": 28,
       "title": "Ибица",
-      "country": "Испания",
+      "country": "spain",
       "airport":"IBZ",
       "coords":
       {
@@ -691,7 +691,7 @@
    {
       "id": 29,
       "title": "Эр-Риад",
-      "country": "Саудовская Аравия",
+      "country": "saudi_arabia",
       "airport":"RUH",
       "coords":
       {
@@ -714,7 +714,7 @@
    {
       "id": 30,
       "title": "Стамбул",
-      "country": "Турция",
+      "country": "turkey",
       "airport":"IST",
       "coords":
       {
@@ -737,7 +737,7 @@
    {
       "id": 31,
       "title": "Шанхай",
-      "country": "Китай",
+      "country": "china",
       "airport":"PVG",
       "coords":
       {
@@ -760,7 +760,7 @@
    {
       "id": 32,
       "title": "Лез-Арк",
-      "country": "Франция",
+      "country": "france",
       "airport":"LPY",
       "coords":
       {
@@ -783,7 +783,7 @@
    {
       "id": 33,
       "title": "Ишгль",
-      "country": "Австрия",
+      "country": "austria",
       "airport":"FDH",
       "coords":
       {
@@ -806,7 +806,7 @@
    {
       "id": 34,
       "title": "Юлляс",
-      "country": "Финляндия",
+      "country": "finland",
       "airport":"KTT",
       "coords":
       {
@@ -829,7 +829,7 @@
    {
       "id": 35,
       "title": "Камчатка",
-      "country": "Россия",
+      "country": "russia",
       "airport":"PKC",
       "coords":
       {
@@ -852,7 +852,7 @@
    {
       "id": 36,
       "title": "Алтай",
-      "country": "Россия",
+      "country": "russia",
       "airport":"AAT",
       "coords":
       {
@@ -875,7 +875,7 @@
    {
       "id": 37,
       "title": "Кейптаун",
-      "country": "ЮАР",
+      "country": "south_africa",
       "airport":"CPT",
       "coords":
       {
@@ -898,7 +898,7 @@
    {
       "id": 38,
       "title": "Рим",
-      "country": "Италия",
+      "country": "italy",
       "airport":"CIA",
       "coords":
       {
